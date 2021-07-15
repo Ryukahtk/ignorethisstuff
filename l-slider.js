@@ -675,7 +675,7 @@ if (!self.__WB_pmw) {
             autoHideNavArrows: !0,
             showBottomNav: !0,
             showOnInitBottomNav: !0,
-            autoHideBottomNav: !1,
+            autoHideBottomNav: !0,
             showPreviewThumbs: !0,
             enableTouchScreen: !1,
             absUrl: "",
